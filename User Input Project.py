@@ -1,0 +1,8 @@
+# Mobile_Number = input("Mobile Number: ")
+# Email_ID = input("E-Mail ID: ")
+# print("Mobile Number: " + Mobile_Number)
+# print(Email_ID)
+# Name = input("Insert Name: ")
+# Location = input("Location: ")
+# College = input("College: ")
+# print(Name + " from " + Location + " is studying in " + College)
